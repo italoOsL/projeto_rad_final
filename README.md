@@ -13,21 +13,21 @@ Este é um sistema desenvolvido para o cadastro e gerenciamento de usuários em 
 📊 Definição automática de aprovação com base nas notas.
 
 🚀 Tecnologias Utilizadas
-Python – Lógica principal da aplicação;
+  - Python – Lógica principal da aplicação;
 
-Tkinter – Interface gráfica (GUI);
+  - Tkinter – Interface gráfica (GUI);
 
-MySQL – Banco de dados utilizado para armazenar os registros (CRUD);
+  - MySQL – Banco de dados utilizado para armazenar os registros (CRUD);
 
-Técnicas de Desenvolvimento de Aplicações Rápidas com Python.
+  - Técnicas de Desenvolvimento de Aplicações Rápidas com Python.
 
 💻 Pré-requisitos
-Python 3.x
+  - Python 3.x
 
-MySQL Server
+  - MySQL Server
 
 Bibliotecas Python:
 
-mysql-connector-python
+  - mysql-connector-python
 
-tkinter (já incluso na instalação padrão do Python)
+  - tkinter
